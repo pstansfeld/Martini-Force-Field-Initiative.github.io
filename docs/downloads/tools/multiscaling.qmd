@@ -41,10 +41,10 @@ For more details and to download the latest version, visit the [[GitHub reposito
 
 CG2AT2 is a fragment based conversion of Coarse-Grained systems (e.g. Martini) to an atomistic resolution. CG2AT2 generates a selection of outputs for allowing further refinements and analysis via atomistic simulations.
 
-For more details and to download the latest version, visit the [[GitHub repository]](https://github.com/pstansfeld/cg2at). CG2AT2 does not require compilation and can be downloaded, ready to run from either Github or Zenodo, however, it is also available from conda:
+For more details and to download the latest version, visit the [[GitHub repository]](https://github.com/pstansfeld/cg2at). CG2AT2 does not require compilation and can be downloaded, ready to run from either Github or Zenodo, however, it is also available from pip:
 
 ```sh
-conda install -c stansfeld_rg cg2at
+pip install cg2at
 ```
 
 More extensive information and a tutorial can be found [\[here\]](../../tutorials/Martini3/cg2at/index.qmd).
